@@ -3,6 +3,7 @@
     <CThemeProvider>
       <CColorModeProvider>
         <CBox font-family="body" as="main">
+          <Header />
           <CReset />
           <Nuxt />
         </CBox>
@@ -17,6 +18,7 @@ import {
   CReset,
   CBox
 } from '@chakra-ui/vue'
+import Header from '~/components/header/Header.vue'
 
 export default {
   name: 'DefaultLayout',
@@ -24,7 +26,8 @@ export default {
     CThemeProvider,
     CColorModeProvider,
     CReset,
-    CBox
+    CBox,
+    Header
   }
 }
 </script>
