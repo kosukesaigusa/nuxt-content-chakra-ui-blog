@@ -1,4 +1,4 @@
-# nuxt_content_chakura_ui_blog
+# nuxt_content_chakra_ui_blog
 
 ## Build Setup
 
