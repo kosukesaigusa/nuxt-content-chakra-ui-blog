@@ -12,7 +12,7 @@
     "lintfix": "npm run lint:js -- --fix"
   },
   "dependencies": {
-    "@chakra-ui/nuxt": "^0.6.0",
+    "@chakra-ui/nuxt": "^0.7.0",
     "@nuxt/content": "^2.3.0",
     "@nuxtjs/emotion": "^0.1.0",
     "core-js": "^3.27.1",
