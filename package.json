@@ -15,7 +15,7 @@
     "@chakra-ui/nuxt": "^0.7.0",
     "@nuxt/content": "^2.4.3",
     "@nuxtjs/emotion": "^0.1.0",
-    "core-js": "^3.27.1",
+    "core-js": "^3.28.0",
     "nuxt": "^3.0.0",
     "vue": "^3.2.47",
     "vue-server-renderer": "^2.7.14",
