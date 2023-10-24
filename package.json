@@ -19,7 +19,7 @@
     "nuxt": "^3.5.3",
     "vue": "^3.3.4",
     "vue-server-renderer": "^2.7.14",
-    "vue-template-compiler": "^2.7.14",
+    "vue-template-compiler": "^2.7.15",
     "webpack": "^5.75.0"
   },
   "devDependencies": {
